@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Project.ArraysToMethod&apos; to &apos;Clothes&apos;&#x0D;&#x0A;- Original project: &apos;PROJECT&apos;&#x0D;&#x0A;- Original element: &apos;Project.ArraysToMethod&apos;&#x0D;&#x0A;- Renamed element: &apos;Project.Clothes&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ArraysToMethod&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Project{ArraysToMethod.java[ArraysToMethod" matchStrategy="1" name="Clothes" qualified="false" references="true" similarDeclarations="false" stamp="1643369568051" textual="false" version="1.0"/>
+</session>
